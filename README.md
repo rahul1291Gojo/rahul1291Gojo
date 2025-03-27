@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rahul1291Gojo" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=900&height=70&duration=3700&lines=Hey+there!+👋;+I'm+Rahul Samanta.;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=900&height=70&duration=3700&lines=Hey+there!+👋;+I'm+Rahul+Samanta;" />
 </h1>
 <h3 align="center">A passionate software developer</h3>
 <hr />
